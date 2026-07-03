@@ -1,0 +1,7 @@
+========= Pharmacy Bill =========
+Medicine             Qty        Price      Total     
+--------------------------------------------
+Paracetamol          2          25.5       51.0      
+--------------------------------------------
+Grand Total: ₹51.0
+Date: Tue Dec 16 12:43:39 IST 2025

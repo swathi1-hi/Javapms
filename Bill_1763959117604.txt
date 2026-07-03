@@ -1,0 +1,7 @@
+========= Pharmacy Bill =========
+Medicine             Qty        Price      Total     
+--------------------------------------------
+Diabetes Tablet      2          150.0      300.0     
+--------------------------------------------
+Grand Total: ?300.0
+Date: Mon Nov 24 10:08:37 IST 2025

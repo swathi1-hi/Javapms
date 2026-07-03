@@ -1,0 +1,7 @@
+========= Pharmacy Bill =========
+Medicine             Qty        Price      Total     
+--------------------------------------------
+Paracetamol          3          25.5       76.5      
+--------------------------------------------
+Grand Total: ?76.5
+Date: Tue Nov 04 05:32:29 IST 2025

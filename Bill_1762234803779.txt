@@ -1,0 +1,8 @@
+========= Pharmacy Bill =========
+Medicine             Qty        Price      Total     
+--------------------------------------------
+Paracetamol          4          25.5       102.0     
+Cough Syrup          2          75.0       150.0     
+--------------------------------------------
+Grand Total: ?252.0
+Date: Tue Nov 04 11:10:03 IST 2025
